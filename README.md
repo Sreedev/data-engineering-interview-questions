@@ -18,6 +18,12 @@ This is a place where you can come to prepare for the data engineering interview
      * Analytical engineering is a process where we access the processed data, transform it, apply statistical modeling, and visualize it in the form of reports and dashboards. The popular tools are DBT (data build tool), BigQuery, Postgres, Metabase, Google Data Studio, and Tableau. <br> <br>
 * **What tools do you use for analytics engineering?**
      * Analytical engineering is a process where we access the processed data, transform it, apply statistical modeling, and visualize it in the form of reports and dashboards. The popular tools are DBT (data build tool), BigQuery, Postgres, Metabase, Google Data Studio, and Tableau. <br> <br>
+* **What Do * args and ** kwargs Mean?**
+     * args defines an ordered function and that ** kwargs represent unordered arguments used in a function. To impress your interviewer, you may want to write down this code in a visual example to demonstrate your expertise.  <br> <br>
+* **As a data engineer, how have you handled a job-related crisis?**
+     * Data engineers have a lot of responsibilities, and it’s a genuine possibility that you’ll face challenges while on the job, or even emergencies. Just be honest and let them know what you did to solve the problem. If you have yet to encounter an urgent issue while on the job or this is your first data engineering role, tell your interviewer what you would do in a hypothetical situation. For example, you can say that if data were to get lost or corrupted, you would work with IT to make sure data backups were ready to be loaded, and that other team members have access to what they need.<br> <br>
+* **Do you have any experience with data modeling?**
+     * Start with a simple yes or no. Even if you don’t have experience with data modeling, you’ll want to be at least able to define it: the act of transforming and processing fetched data and then sending it to the right individual(s). If you are experienced, you can go into detail about what you’ve done specifically. Perhaps you used tools like Talend, Pentaho, or Informatica. <br> <br>
      
 ### Python Questions
  * **How do you perform web scraping in Python?**
@@ -39,6 +45,7 @@ This is a place where you can come to prepare for the data engineering interview
 ---------------------------------------------------------------------------------
 ## References
 1. Datacamp - https://www.datacamp.com/blog/top-21-data-engineering-interview-questions-and-answers
+2. Simplilearn - https://www.simplilearn.com/data-engineer-interview-questions-and-answers-article
 ----------------------------------------------------------------------------------
 
 ### ☕[BUY ME A COFFEE](https://www.buymeacoffee.com/thelifeimprovised)!
