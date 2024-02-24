@@ -24,7 +24,7 @@ This is a place where you can come to prepare for the data engineering interview
      * Data engineers have a lot of responsibilities, and it’s a genuine possibility that you’ll face challenges while on the job, or even emergencies. Just be honest and let them know what you did to solve the problem. If you have yet to encounter an urgent issue while on the job or this is your first data engineering role, tell your interviewer what you would do in a hypothetical situation. For example, you can say that if data were to get lost or corrupted, you would work with IT to make sure data backups were ready to be loaded, and that other team members have access to what they need.<br> <br>
 * **Do you have any experience with data modeling?**
      * Start with a simple yes or no. Even if you don’t have experience with data modeling, you’ll want to be at least able to define it: the act of transforming and processing fetched data and then sending it to the right individual(s). If you are experienced, you can go into detail about what you’ve done specifically. Perhaps you used tools like Talend, Pentaho, or Informatica. <br> <br>
-* **What are the essential skills required to be a data engineer?**<br>
+* **What are the essential skills required to be a data engineer?** <br>
      - Comprehensive knowledge about Data Modelling.<br>
      - Understanding about database design & database architecture. In-Depth Database Knowledge – SQL and NoSQL.<br>
      - Working experience of data stores and distributed systems like Hadoop (HDFS).
@@ -32,13 +32,25 @@ This is a place where you can come to prepare for the data engineering interview
      - Experience in Data Warehousing and ETL (Extract Transform Load) Tools.<br>
      - You should have robust computing and math skills.<br>
      - Outstanding communication, leadership, critical thinking, and problem-solving capabilities are an added advantage. <br> <br>
-* **Can you name the essential frameworks and applications for data engineers?**<br>
+* **Can you name the essential frameworks and applications for data engineers?** <br>
      * You can list all of the technical applications like SQL, Hadoop, Python, and more, along with your proficiency level in each. You can also state the frameworks which want to learn more about if given the opportunity.<br> <br>
-* **Are you experienced in Python, Java, Bash, or other scripting languages?**<br>
+* **Are you experienced in Python, Java, Bash, or other scripting languages?** <br>
      * It is essential to have a comprehensive knowledge of scripting languages, as it allows you to perform analytical tasks efficiently and automate data flow.<br> <br>
-* **Can you differentiate between a Data Engineer and a Data Scientist?**<br>
-     * Data Engineers develop, test, and maintain the complete architecture for data generation, whereas data scientists analyze and interpret complex data. They tend to focus on organization and translation of Big Data. Data scientists require data engineers to create the infrastructure for them to work.<br> <br>
-     
+* **Can you differentiate between a Data Engineer and a Data Scientist?** <br>
+     * Data Engineers develop, test, and maintain the complete architecture for data generation, whereas data scientists analyze and interpret complex data. They tend to focus on organization and translation of Big Data. Data scientists require data engineers to create the infrastructure for them to work.<br> <be>
+* **What, according to you, are the daily responsibilities of a data engineer?** <br>
+     - Development, testing, and maintenance of architectures.<br>
+     - Aligning the design with business requisites.<br>
+     - Data acquisition and development of data set processes.<br>
+     - Deploying machine learning and statistical models<br>
+     - Developing pipelines for various ETL operations and data transformation<br>
+     - Simplifying data cleansing and improving the de-duplication and building of data.<br>
+     - Identifying ways to improve data reliability, flexibility, accuracy, and quality.<br><br>
+* **What is your approach to developing a new analytical product as a data engineer??** <br>
+     * Your first step would be to understand the outline of the entire product to comprehend the complete requirements and scope. Your second step would be to look into the details and reasons for each metric. Think about as many issues that could occur, and it helps you to create a more robust system with a suitable level of granularity.<br><br>
+* **What was the algorithm you used on a recent project?** <br>
+     * Can ask some follow-up questions like: Why did you choose this algorithm, and can you contrast this with other similar ones?, What is the scalability of this algorithm with more data? Are you happy with the results? If you were given more time, what could you improve?<br><br>
+
 ### Python Questions
  * **How do you perform web scraping in Python?**
       * Access the webpage using the request library and URL
