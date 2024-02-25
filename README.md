@@ -37,7 +37,7 @@ This is a place where you can come to prepare for the data engineering interview
 * **Are you experienced in Python, Java, Bash, or other scripting languages?** <br>
      * It is essential to have a comprehensive knowledge of scripting languages, as it allows you to perform analytical tasks efficiently and automate data flow.<br> <br>
 * **Can you differentiate between a Data Engineer and a Data Scientist?** <br>
-     * Data Engineers develop, test, and maintain the complete architecture for data generation, whereas data scientists analyze and interpret complex data. They tend to focus on organization and translation of Big Data. Data scientists require data engineers to create the infrastructure for them to work.<br> <be>
+     * Data Engineers develop, test, and maintain the complete architecture for data generation, whereas data scientists analyze and interpret complex data. They tend to focus on organization and translation of Big Data. Data scientists require data engineers to create the infrastructure for them to work.<br> <br>
 * **What, according to you, are the daily responsibilities of a data engineer?** <br>
      - Development, testing, and maintenance of architectures.<br>
      - Aligning the design with business requisites.<br>
@@ -50,6 +50,10 @@ This is a place where you can come to prepare for the data engineering interview
      * Your first step would be to understand the outline of the entire product to comprehend the complete requirements and scope. Your second step would be to look into the details and reasons for each metric. Think about as many issues that could occur, and it helps you to create a more robust system with a suitable level of granularity.<br><br>
 * **What was the algorithm you used on a recent project?** <br>
      * Can ask some follow-up questions like: Why did you choose this algorithm, and can you contrast this with other similar ones?, What is the scalability of this algorithm with more data? Are you happy with the results? If you were given more time, what could you improve?<br><br>
+* **How can you deploy a big data solution?** <br>
+     * Data Integration/Ingestion: In this step, the extraction of data using data sources like RDBMS, Salesforce, SAP, MySQL is done.<br>
+     * Data storage: The extracted data would be stored in an HDFS or NoSQL database.<br>
+     * Data processing: the last step should be deploying the solution using processing frameworks like MapReduce, Pig, and Spark.<br><br>
 
 ### Python Questions
  * **How do you perform web scraping in Python?**
@@ -60,6 +64,8 @@ This is a place where you can come to prepare for the data engineering interview
         Save the data in the form of a CSV file. <br> <br>
 * **Which Python libraries are most efficient for data processing?**
      * The most popular libraries for data processing are Pandas and Numpy. For parallel processing of large datasets, we use Dask, Pyspark, Datatable, and Rapids. They all have pros and cons, and we must understand the application based on data requirements. <br> <br>
+* **Which Python libraries would you utilize for proficient data processing?**
+     * Your answer should include NumPy as it is utilized for efficient processing of arrays of numbers and pandas, which is great for statistics and data preparation for machine learning work. The interviewer can ask you questions like why would you use these libraries and list some examples where you would not use them.<br> <br>
      
 ### SQL Questions
 * **What are Common Table Expressions in SQL?**
